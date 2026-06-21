@@ -1,0 +1,529 @@
+{
+  "main": {
+    "id": "4a479f8f1bd4ef62",
+    "type": "split",
+    "children": [
+      {
+        "id": "560e6fa74624614d",
+        "type": "split",
+        "children": [
+          {
+            "id": "93f2da220fe1e823",
+            "type": "split",
+            "children": [
+              {
+                "id": "902936acc4cb98e2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b2ebb5724905d1b4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                        "viewName": "1.全部"
+                      },
+                      "icon": "lucide-table",
+                      "title": "1-文献原文"
+                    }
+                  },
+                  {
+                    "id": "46670db6bb06b0e2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+                        "viewName": "2.1-AI指令"
+                      },
+                      "icon": "lucide-table",
+                      "title": "1-工作流文件"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "8a9ab721f9dfeda2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3c9c809b17db113d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+                        "viewName": "4.3-中转站"
+                      },
+                      "icon": "lucide-table",
+                      "title": "1-工作流文件"
+                    }
+                  },
+                  {
+                    "id": "9ce5249f247cbc93",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/3-中转站/1-摘要结果.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1-摘要结果"
+                    }
+                  },
+                  {
+                    "id": "437cbe53cde5a17e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/3-中转站/2-引言逻辑链.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2-引言逻辑链"
+                    }
+                  },
+                  {
+                    "id": "5e7f052e0049329c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/3-中转站/3-关键词整理.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "3-关键词整理"
+                    }
+                  },
+                  {
+                    "id": "6912527d9004ed4b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/3-中转站/4-归一去重.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "4-归一去重"
+                    }
+                  },
+                  {
+                    "id": "f3fad20fd9250087",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0-辅助材料/1-工作流文件/3-中转站/5-知识点笔记分发.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "5-知识点笔记分发"
+                    }
+                  },
+                  {
+                    "id": "92a85252a21310f6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "4-临时文件/2026-06-19.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-06-19"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "266c6b80916a482e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8bca6093f14c7b87",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/1-文献输入/2-处理后文献.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "2-处理后文献"
+                }
+              },
+              {
+                "id": "f4cce163732c2f0d",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/2-文献摘抄/0-元素笔记.base",
+                    "viewName": "2.摘要"
+                  },
+                  "icon": "lucide-table",
+                  "title": "0-元素笔记"
+                }
+              },
+              {
+                "id": "fd0e208d606e4c9d",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/2-文献摘抄/1-摘要笔记.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "1-摘要笔记"
+                }
+              },
+              {
+                "id": "eca3021da9a4de88",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/2-文献摘抄/2-引言笔记.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "2-引言笔记"
+                }
+              },
+              {
+                "id": "73573cf656c3cf1e",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "6-文件夹汇总/2-文献摘抄/0-知识点笔记.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "0-知识点笔记"
+                }
+              },
+              {
+                "id": "643aa7d2b3200804",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/1-工作流文件/2-辞典/0-元素辞典.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0-元素辞典"
+                }
+              },
+              {
+                "id": "28a3875a709ff291",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/1-工作流文件/2-辞典/1.摘要辞典.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1.摘要辞典"
+                }
+              },
+              {
+                "id": "191de0f32ae3db1d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/1-工作流文件/2-辞典/2.引言辞典.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2.引言辞典"
+                }
+              },
+              {
+                "id": "d74d908ccf48bb27",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/1-工作流文件/2-辞典/0-关键词辞典.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0-关键词辞典"
+                }
+              },
+              {
+                "id": "0d9deef7261f5590",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-辅助材料/1-工作流文件/2-辞典/2.知识点辞典.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2.知识点辞典"
+                }
+              }
+            ],
+            "currentTab": 9
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cfaa9bab9ce1ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a32588c4e080ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b989d1c42ba01c16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "38f393cc9da59013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0d2b57aace97e415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "d862a8b944ca9c5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a582220c0dad9595",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89b71f72c9d2bec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41918eb65375f00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903fc75fd879353c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "25bcecb3969bd6e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6-文件夹汇总/1-文献输入/1-文献原文.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "c83e57b6402ea7eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "69ff009d4bb57e10",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "e2a63e4c7a1992df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-工作流Buttons"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "0d9deef7261f5590",
+  "lastOpenFiles": [
+    "6-文件夹汇总/0-辅助材料/1-工作流文件.base",
+    "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+    "6-文件夹汇总/0-辅助材料/5-说明书.base",
+    "6-文件夹汇总/2-文献摘抄/0-知识点笔记.base",
+    "0-辅助材料/1-工作流文件/2-辞典/0-关键词辞典.md",
+    "0-辅助材料/1-工作流文件/2-辞典/2.知识点辞典.md",
+    "6-文件夹汇总/2-文献摘抄/2-引言笔记.base",
+    "2-文献摘抄/0-知识点笔记/乳腺癌.md",
+    "2-文献摘抄/0-知识点笔记/鹅膏毒肽中毒.md",
+    "0-辅助材料/1-工作流文件/3-中转站/5-知识点笔记.md",
+    "2-文献摘抄/0-知识点笔记/微塑料.md",
+    "2-文献摘抄/0-知识点笔记/肺纤维化.md",
+    "2-文献摘抄/0-知识点笔记/网络毒理学.md",
+    "2-文献摘抄/0-知识点笔记/网络药理学.md",
+    "2-文献摘抄/0-知识点笔记/细胞凋亡和转移.md",
+    "2-文献摘抄/0-知识点笔记/植物中草药.md",
+    "6-文件夹汇总/2-文献摘抄/1-摘要笔记.base",
+    "0-辅助材料/1-工作流文件/2-辞典/2.引言辞典.md",
+    "2-文献摘抄/0-知识点笔记/母菊薁.md",
+    "4-临时文件/2026-06-19.md",
+    "0-辅助材料/1-工作流文件/1-AI指令/2.知识点命名.md",
+    "0-辅助材料/1-工作流文件/3-中转站/4-归一去重.md",
+    "0-辅助材料/1-工作流文件/1-AI指令/2.关键词归一去重.md",
+    "0-辅助材料/1-工作流文件/3-中转站/3-关键词整理.md",
+    "0-辅助材料/1-工作流文件/3-中转站/2-引言逻辑链.md",
+    "0-辅助材料/1-工作流文件/3-中转站/1-摘要结果.md",
+    "0-辅助材料/1-工作流文件/2-辞典/8-结论辞典.md",
+    "0-辅助材料/1-工作流文件/2-辞典/5.讨论辞典.md",
+    "0-辅助材料/1-工作流文件/2-辞典/4.结果-图像辞典.md",
+    "0-辅助材料/1-工作流文件/2-辞典/4.结果辞典.md",
+    "6-文件夹汇总/2-文献摘抄/0-元素笔记.base",
+    "6-文件夹汇总/1-文献输入/1-文献原文.base",
+    "6-文件夹汇总/1-文献输入/2-处理后文献.base",
+    "6-文件夹汇总/2-文献摘抄/3-方法笔记.base",
+    "6-文件夹汇总/5-最终文稿.base"
+  ]
+}
