@@ -1,37 +1,63 @@
 {
   "main": {
-    "id": "4696ca0e6157ecc1",
+    "id": "root",
     "type": "split",
     "children": [
       {
-        "id": "e53c2ae740da8974",
-        "type": "tabs",
+        "id": "967ce551cb04923d",
+        "type": "split",
         "children": [
           {
-            "id": "daca1176b73be927",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
+            "id": "1893c79c4184f06e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "502b8b25d769f7fd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          },
+          {
+            "id": "07508a15d9fe102d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "489c5a6bdd5dc4db",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "5-文件夹汇总/1-学习材料/2-公众号.base",
+                    "viewName": "1.全部"
+                  },
+                  "icon": "lucide-table",
+                  "title": "2-公众号"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "82497291858fed17",
+    "id": "left",
     "type": "split",
     "children": [
       {
-        "id": "c9c3dc0af9ae84ec",
+        "id": "7920ff712bf4e1b9",
         "type": "tabs",
         "children": [
           {
-            "id": "3646401ec88dff19",
+            "id": "1737f881692235d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +72,7 @@
             }
           },
           {
-            "id": "e08a8e4890f33e06",
+            "id": "8a74c2de0cc38ada",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +89,7 @@
             }
           },
           {
-            "id": "62e9cb1e84b12178",
+            "id": "615ce367ff4931ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +108,20 @@
     "width": 300
   },
   "right": {
-    "id": "a92eccd1d5ed2b92",
+    "id": "right",
     "type": "split",
     "children": [
       {
-        "id": "8cc15e2be5d048c0",
+        "id": "3e369be39ca67f3d",
         "type": "tabs",
         "children": [
           {
-            "id": "42427892123e6dd2",
+            "id": "5ce8b0bf5197b0cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8-文件夹汇总/0-辅助材料/1-工作流文件.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +135,12 @@
             }
           },
           {
-            "id": "8b878e8fb1e1d8fe",
+            "id": "e96eb63be3d7c650",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8-文件夹汇总/0-辅助材料/1-工作流文件.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +149,7 @@
             }
           },
           {
-            "id": "90f5ec4d2fedbf5f",
+            "id": "3cda11e05e8b509c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +164,7 @@
             }
           },
           {
-            "id": "5986b37d2678d3b1",
+            "id": "7c58f684c084a455",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +178,12 @@
             }
           },
           {
-            "id": "f56fd40732773a78",
+            "id": "ac8bc0c78b1c0b6a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "8-文件夹汇总/0-辅助材料/1-工作流文件.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,13 +191,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "48f7bc8d1c57bedc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 623.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,46 +217,50 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "daca1176b73be927",
+  "active": "1737f881692235d0",
   "lastOpenFiles": [
-    "0-辅助材料/0-工作流文件/4-说明书/未命名.md",
-    "0-辅助材料/0-工作流文件/3-中转站/未命名.md",
-    "0-辅助材料/0-工作流文件/2-辞典/未命名.md",
-    "0-辅助材料/0-工作流文件/1-AI指令/未命名.md",
-    "0-辅助材料/0-工作流文件/4-说明书",
-    "0-辅助材料/0-工作流文件/3-中转站",
-    "0-辅助材料/0-工作流文件/2-辞典",
-    "0-辅助材料/0-工作流文件/1-AI指令",
-    "0-辅助材料/0-工作流文件",
-    "0-辅助材料/1-Template/3.论文书写/论文书写-4.分句整理.md",
-    "0-辅助材料/1-Template/3.论文书写/论文书写-3.提取文本.md",
-    "0-辅助材料/1-Template/3.论文书写/论文书写-2.解压缩.md",
-    "0-辅助材料/1-Template/3.论文书写/论文书写-1.段落书写.md",
-    "0-辅助材料/1-Template/3.论文书写/论文书写-0.插入草稿.md",
-    "0-辅助材料/1-Template/2.笔记整理/笔记整理-4批量删除.md",
-    "0-辅助材料/1-Template/2.笔记整理/笔记整理-3输出Word.md",
-    "0-辅助材料/1-Template/2.笔记整理/笔记整理-2属性关联.md",
-    "0-辅助材料/1-Template/2.笔记整理/笔记整理-1复制粘贴至其他库.md",
-    "0-辅助材料/1-Template/1.文本处理/文本处理-4.综述知识点标题处理.md",
-    "0-辅助材料/1-Template/1.文本处理/文本处理-3.折叠.md",
-    "0-辅助材料/1-Template/1.文本处理/文本处理-2.Mermaid格式修改.md",
-    "0-辅助材料/1-Template/1.文本处理/文本处理-1.Mermaid.md",
-    "0-辅助材料/1-Template/0.脚本汇总/8.文稿整理.md",
-    "0-辅助材料/1-Template/0.脚本汇总/7.论文书写.md",
-    "0-辅助材料/1-Template/0.脚本汇总/6.添加链接.md",
-    "0-辅助材料/1-Template/0.脚本汇总/5.使用上次修饰.md",
-    "0-辅助材料/1-Template/0.脚本汇总/4.非常用文本修饰.md",
-    "0-辅助材料/1-Template/0.脚本汇总/2.笔记整理.md",
-    "0-辅助材料/1-Template/0.脚本汇总/3.常用文本修饰.md",
-    "0-辅助材料/1-Template/0.脚本汇总/1.文本处理.md",
-    "0-辅助材料/3-工作区设置/2-工作流Buttons.md",
-    "0-辅助材料/1-Template/3.论文书写",
-    "0-辅助材料/1-Template/2.笔记整理",
-    "0-辅助材料/1-Template/1.文本处理",
-    "0-辅助材料/1-Template/0.脚本汇总",
-    "0-辅助材料/3-工作区设置"
+    "0-辅助材料/1-工作流文件/3-中转站/3.脚本笔记.md",
+    "0-辅助材料/1-工作流文件/3-中转站/2.修改脚本.md",
+    "0-辅助材料/1-工作流文件/3-中转站/1.具体脚本.md",
+    "0-辅助材料/1-工作流文件/4-说明书/未命名.md",
+    "0-辅助材料/1-工作流文件/4-说明书/1.设计思路.md",
+    "0-辅助材料/1-工作流文件/1-AI指令/2.分析脚本.md",
+    "0-辅助材料/1-工作流文件/1-AI指令/1.脚本评审.md",
+    "0-辅助材料/1-工作流文件/2-辞典/未命名.md",
+    "0-辅助材料/1-工作流文件/3-中转站",
+    "0-辅助材料/1-工作流文件/4-说明书",
+    "0-辅助材料/1-工作流文件/1-AI指令",
+    "0-辅助材料/1-工作流文件/2-辞典",
+    "0-辅助材料/1-工作流文件",
+    "0-辅助材料/4-工作区设置/2-工作流Buttons.md",
+    "0-辅助材料/4-工作区设置/1-工作区buttons.md",
+    "0-辅助材料/4-工作区设置",
+    "0-辅助材料/3-文件模板/2-论文书写-最后版本.md",
+    "0-辅助材料/3-文件模板/1-日记模板.md",
+    "0-辅助材料/3-文件模板",
+    "0-辅助材料/2-Template/3.论文书写/论文书写-4.分句整理.md",
+    "0-辅助材料/2-Template/3.论文书写/论文书写-3.提取文本.md",
+    "0-辅助材料/2-Template/3.论文书写/论文书写-2.解压缩.md",
+    "0-辅助材料/2-Template/3.论文书写/论文书写-1.段落书写.md",
+    "0-辅助材料/2-Template/3.论文书写/论文书写-0.插入草稿.md",
+    "0-辅助材料/2-Template/3.论文书写",
+    "0-辅助材料/2-Template/2.笔记整理/笔记整理-4批量删除.md",
+    "0-辅助材料/2-Template/2.笔记整理/笔记整理-3输出Word.md",
+    "0-辅助材料/2-Template/2.笔记整理/笔记整理-2属性关联.md",
+    "0-辅助材料/2-Template/2.笔记整理/笔记整理-1复制粘贴至其他库.md",
+    "0-辅助材料/2-Template/2.笔记整理",
+    "0-辅助材料/2-Template/1.文本处理/文本处理-4.综述知识点标题处理.md",
+    "0-辅助材料/2-Template/1.文本处理/文本处理-3.折叠.md",
+    "0-辅助材料/2-Template/1.文本处理/文本处理-2.Mermaid格式修改.md",
+    "0-辅助材料/2-Template/1.文本处理/文本处理-1.Mermaid.md",
+    "0-辅助材料/2-Template/1.文本处理",
+    "0-辅助材料/2-Template/0.脚本汇总/8.文稿整理.md"
   ]
 }
