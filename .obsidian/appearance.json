@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
+  "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "段落书写-Callout",
     "论文书写-Callout",
@@ -8,6 +9,5 @@
     "Mermaid",
     "mermaid-callout",
     "mermaid-responsive"
-  ],
-  "baseFontSizeAction": true
+  ]
 }
