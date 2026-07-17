@@ -1,6 +1,6 @@
 {
-  "findText": "v2.5",
-  "replaceText": "v2.6",
+  "findText": "**[待审]**",
+  "replaceText": "",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
