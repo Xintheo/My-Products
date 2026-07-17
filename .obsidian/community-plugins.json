@@ -10,7 +10,7 @@
   "obsidian-reminder-plugin",
   "obsidian-style-settings",
   "tag-wrangler",
-  "templater-obsidian",
   "obsidian-tikzjax",
-  "workspaces-plus"
+  "workspaces-plus",
+  "templater-obsidian"
 ]
