@@ -1,7 +1,0 @@
-.DS_Store
-Thumbs.db
-__pycache__/
-node_modules/
-.gitrepo
-gitupdate.bat
-push.bat
